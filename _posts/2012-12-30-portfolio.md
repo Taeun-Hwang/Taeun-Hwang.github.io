@@ -1,10 +1,8 @@
 ---
-category: test
-<!--
-url_path: '/stuff/:id'
--->
-title: 'Test'
-type: 'DELETE'
+category: Portfolio
+url_path: '/Portfolio/:id'
+title: 'Portfolio'
+type: 'Portfolio'
 
 layout: null
 ---
