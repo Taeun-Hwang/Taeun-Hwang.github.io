@@ -1,5 +1,5 @@
 ---
-```category: Portfolio```
+category: Portfolio
 url_path: '/login/Portfolio'
 title: 'Education'
 type: 'Education'
