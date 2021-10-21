@@ -1,8 +1,8 @@
 ---
 category: Portfolio
-url_path: '/login/Portfolio'
+url_path: '/login'
 title: 'Education'
-type: 'Education'
+type: 'Portfolio'
 
 layout: null
 ---
